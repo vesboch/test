@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Mimestream beta</title>
+        <description>Mimestream beta releases.</description>
+        <language>en</language>
+        
+<item>
+    <title>Version 0.41.6</title>
+    <description>
+        <![CDATA[
+  <p>We’re putting the final finishing touches on Mimestream 1.0! Until then, this update fixes regressions introduced by macOS 13.3, and is compatible with macOS 11+.</p>
+
+  <h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+  <ul style="margin: 0;">
+    <li>(macOS 13.3) Changing the font size in the compose window doesn&#39;t work</li>
+    <li>(macOS 13.3) Spacebar doesn&#39;t scroll conversation view</li>
+  </ul>
+        ]]>
+    </description>
+    <pubDate>Mon, 27 Mar 2023 18:26:00 -0400</pubDate>
+    <enclosure url="https://download.mimestream.com/Mimestream_0.41.6.dmg" sparkle:version="240" sparkle:shortVersionString="0.41.6" type="application/octet-stream" />
+    <sparkle:minimumSystemVersion>11.0.0</sparkle:minimumSystemVersion>
+</item>
+        
+<item>
+    <title>Version 0.35.6</title>
+    <description>
+        <![CDATA[
+  <h3 style="margin-bottom: 0.25rem;">🔧 Fixed</h3>
+  <ul style="margin: 0;">
+    <li>Windows don&#39;t open on macOS Catalina after the beta build expiration date</li>
+  </ul>
+        ]]>
+    </description>
+    <pubDate>Sun, 04 Sep 2022 18:12:00 -0400</pubDate>
+    <enclosure url="https://download.mimestream.com/Mimestream_0.35.6.dmg" sparkle:version="202" sparkle:shortVersionString="0.35.6" type="application/octet-stream" />
+    <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
+</item>
+    </channel>
+</rss>
